@@ -129,7 +129,7 @@ def correcting_force(state, equilibrium_state):
     Lambda = [1.1*l, 1.2*l, 1.3*l, 1.4*l]
     
     
-    
+    #compute the following eigenvalue lists using the LQR module
     K = [ -3.16227766, 315.50629037, -11.8310435 , 139.4518508 ] #quick angle
     #K = [-31.6227766 , 702.97718422, -68.92254352, 309.88945702] #quick x
     #K = [ -0.31622777, 243.86990749,  -2.92688851, 104.49452965] #efficient
