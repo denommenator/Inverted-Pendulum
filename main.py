@@ -13,7 +13,7 @@ Created on Thu Oct  8 11:46:17 2020
 
 @author: robertdenomme
 """
-from Vector import vector
+from vector import vector
 
 import math
 from math import cos
